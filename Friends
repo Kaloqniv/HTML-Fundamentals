@@ -12,10 +12,10 @@
      <h1>Doge Social Network</h1>
      <ul>
          <li>
-             <a href = "Home.html"> Home </a>
+             <a href = "https://github.com/Kaloqniv/HTML-Fundamentals/blob/master/Home"> Home </a>
          </li>
          <li>
-             <a href = "Profile.html"> Profile </a>
+             <a href = "https://github.com/Kaloqniv/HTML-Fundamentals/blob/master/Profile"> Profile </a>
          </li>
          <li>
              <a href = "#"> Friends </a>
