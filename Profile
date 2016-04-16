@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Doge Social Network - Profile
+    </title>
+
+</head>
+<body style="background-color: skyblue">
+<div>
+    <h1>Doge Social Network</h1>
+     <ul>
+         <li>
+             <a href = "Home.html"> Home </a>
+         </li>
+         <li>
+             <a href = "#"> Profile </a>
+         </li>
+         <li>
+             <a href = "Friends.html"> Friends </a>
+         </li>
+</div>
+<hr color = #C0C0C0  size = "3px" />
+<div>
+    <h2> Profile of Doge
+</div>
+<hr color = #C0C0C0  size = "3px" />
+
+<div>
+    <img src ="https://github.com/Kaloqniv/HTML-Fundamentals/blob/master/Doge.jpeg?raw=true" height = "175px"/><br>
+    <style>
+      .info{
+        font-weight: bold;;
+      }
+      </style>
+   <span class="info" style = "font-weight bold;" >Name :</span> <span> Doge </span><br>
+   <span calss="info" style = "font-weight bold;" >Birthday :</span> <span> Top secret </span><br>
+   <span class="info" style = "font-weight bold;" >Occupation :</span> <span> Celebrity </span><br>
+   <span class="info" style = "font-weight bold;" >Area of occupation :</span> <span> Web </span><br>
+
+</div>
+</body>
+</html>
