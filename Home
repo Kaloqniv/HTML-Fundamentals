@@ -13,10 +13,10 @@
              <a href = "#"> Home </a>
          </li>
          <li>
-             <a href = "https://github.com/Kaloqniv/HTML-Fundamentals/blob/master/Profile"> Profile </a>
+             <a href = "Profile.html"> Profile </a>
          </li>
          <li>
-             <a href = "https://github.com/Kaloqniv/HTML-Fundamentals/blob/master/Friends"> Friends </a>
+             <a href = "Friends.html"> Friends </a>
          </li>
 </div>
 <hr color = #c0c0c0  size = "3px" />
